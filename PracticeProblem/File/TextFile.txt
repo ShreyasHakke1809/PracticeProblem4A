@@ -1,0 +1,4 @@
+﻿2023-09-28 13:00:49.2048 INFO Successfully added numbers 27
+2023-09-28 13:01:16.9284 INFO Successfully added numbers 45
+2023-09-28 13:01:34.9588 WARN Input should greater than zero
+2023-09-28 13:01:35.0026 ERROR Number should +ve
